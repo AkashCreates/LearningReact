@@ -1,6 +1,5 @@
 const TodoInput = () => {
   return (
-
     <div className="card shadow-sm mb-4">
       <div className="card-body">
         <form className="row g-3 align-items-center justify-content-center">
